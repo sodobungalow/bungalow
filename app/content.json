@@ -1,0 +1,490 @@
+{
+  "property": {
+    "name": "SODO Bungalow",
+    "tagline": "At home and taken care of.",
+    "address": "Orlando, Florida",
+    "wifi": {
+      "network": "SODO BUNGALOW",
+      "password": "Bungalow123"
+    },
+    "checkin": "3:00 PM",
+    "checkout": "11:00 AM",
+    "maxGuests": 8,
+    "minNights": 2,
+    "hostContact": "Message us through Airbnb or VRBO"
+  },
+  "welcome": {
+    "heading": "Welcome to the SODO Bungalow",
+    "subheading": "We're so glad you're here.",
+    "message": "This home has been in our family since the 1960s — built in concrete when most of Orlando was still orange groves. It was our grandparents' home, our hurricane shelter, and the place where our most treasured memories were made. After they passed, we lovingly remodeled it and decided to share it with the world. We hope you feel the warmth, the history, and the care that went into every detail. Make yourself at home — that's exactly what this place is meant to be.",
+    "hostName": "Carla & Family"
+  },
+  "highlights": [
+    { "icon": "🏊", "title": "Private Pool", "description": "Your own pool, always ready" },
+    { "icon": "🌊", "title": "Lake Conway", "description": "1-minute walk to the water" },
+    { "icon": "✈️", "title": "10 min to MCO", "description": "Orlando International Airport" },
+    { "icon": "🏰", "title": "25 min to Disney", "description": "All parks within easy reach" },
+    { "icon": "🏥", "title": "4 miles to hospitals", "description": "ORMC, MD Anderson & more" },
+    { "icon": "🏟️", "title": "15 min to stadium", "description": "Camping World & Kia Center" }
+  ],
+  "houseGuide": {
+    "checkin": {
+      "title": "Check-In & Access",
+      "steps": [
+        "Your check-in code will be sent through Airbnb or VRBO before your arrival",
+        "Enter through the front door using the keypad",
+        "Park in the driveway or carport — both are yours for the stay",
+        "Check-in time is 3:00 PM. Early check-in is available upon request for an additional fee — just message us"
+      ]
+    },
+    "wifi": {
+      "network": "SODO BUNGALOW",
+      "password": "Bungalow123"
+    },
+    "bedrooms": [
+      {
+        "name": "Primary Suite",
+        "description": "Queen bed, ceiling fan, gray linen curtains, two nightstands. Connected to the bunk room — perfect for a parent who wants to be close to the kids."
+      },
+      {
+        "name": "Bunk Room",
+        "description": "Full-over-full bunk beds with bean bag chairs and a fun Florida vibe. Connected to the primary suite. Great for kids or extra guests."
+      },
+      {
+        "name": "Junior Suite",
+        "description": "Full bed with a soft mauve palette, ceiling fan, and a TV on the dresser. A cozy, private retreat."
+      },
+      {
+        "name": "Living Room",
+        "description": "Sofa bed available for additional guests. Sleeps comfortably up to 2."
+      },
+      {
+        "name": "Office / Workspace",
+        "description": "Dedicated desk and chair with natural light. Extra linens are stored in this closet."
+      }
+    ],
+    "kitchen": {
+      "description": "The kitchen is fully equipped for cooking. Please note there is no dishwasher — we ask that all dishes are hand-washed before checkout.",
+      "appliances": [
+        "Full-size refrigerator with ice & water dispenser",
+        "Electric stove & oven",
+        "Microwave",
+        "Blender",
+        "Nespresso machine (pods provided — feel free to bring your own favorites)"
+      ],
+      "notes": "This is a clean-start kitchen. We don't stock pantry staples, so bring or grab anything you need. Ideal Food Basket is a 5-minute drive and has prepared food too."
+    },
+    "pool": {
+      "description": "Your private pool is available 24 hours a day — no scheduling needed. Pool toys and floats are provided.",
+      "rules": [
+        "Children must be supervised by an adult at all times",
+        "No glass of any kind in the pool area",
+        "Pool is not heated — Florida sunshine does the job most of the year",
+        "Pool depth reaches 7 feet at the deep end and shallows toward the steps",
+        "Please shower before entering the pool",
+        "Pool towels are provided — please keep pool towels outside"
+      ],
+      "access": "Enter through the sunroom or the kitchen door — both lead directly to the backyard."
+    },
+    "backyard": {
+      "description": "Enjoy the spacious fenced backyard with outdoor seating for everyone.",
+      "features": [
+        "Wicker sectional sofa with cushions",
+        "2 chaise lounge chairs",
+        "Patio umbrella",
+        "Outdoor dining table",
+        "Electric grill"
+      ],
+      "grill": "The electric grill is located on the patio. Plug in and turn the dial to your desired heat. Please clean the grates after use — cleaning tools are stored underneath."
+    },
+    "laundry": {
+      "description": "Washer and dryer are in the laundry room and available for your use.",
+      "instructions": [
+        "Laundry detergent is provided — it's the bottle on top of the washer",
+        "Standard wash cycles work great for everything",
+        "Please do not leave wet clothes sitting in the washer — run through and transfer promptly"
+      ]
+    },
+    "thermostat": {
+      "description": "Keep the thermostat set to 72°F or above to maintain comfort throughout the home. Florida air conditioning works best when not pushed too low.",
+      "location": "Located on the wall in the main living area."
+    },
+    "tvs": {
+      "description": "Three Roku TVs are available throughout the home.",
+      "locations": [
+        "Living room — large screen above the media console",
+        "Primary suite",
+        "Junior suite"
+      ],
+      "streaming": "Each TV has Roku built in. Simply log into your own Netflix, Hulu, Disney+, HBO Max, or any other streaming app. Your accounts — your shows."
+    },
+    "trash": {
+      "description": "Trash bins are located at the end of the driveway.",
+      "pickup": "Trash pickup is Thursday and Friday.",
+      "note": "Please bag all trash securely and place it in the bins outside."
+    },
+    "septic": {
+      "warning": "IMPORTANT — SEPTIC SYSTEM",
+      "description": "This home has a septic system. Please do not flush anything down the toilet or sink — including toilet paper, wipes, feminine products, or paper towels. All waste must go in the trash can. Flushing anything can damage the system and cause a serious problem for you and future guests. Thank you for helping us protect this home."
+    },
+    "supplies": {
+      "extra_linens": "Extra linens and bedding are stored in the office closet.",
+      "bath_towels": "Fresh bath towels are in each bathroom.",
+      "pool_towels": "Pool towels are in the sunroom.",
+      "iron": "Iron and ironing board are available — ask us where to find them.",
+      "hair_dryer": "Hair dryer available in the primary bathroom.",
+      "high_chair": "A high chair is available upon request — please message us 24 hours before arrival."
+    }
+  },
+  "localGuide": {
+    "walkingDistance": [
+      {
+        "name": "Mecatos Bakery & Café",
+        "type": "Colombian Bakery & Café",
+        "description": "Don't miss this one. Colombian empanadas, arepas, fresh-baked pastries, and great coffee. A true neighborhood gem — and it's walking distance.",
+        "hostPick": true,
+        "emoji": "🥐"
+      },
+      {
+        "name": "7-Eleven",
+        "type": "Convenience Store",
+        "description": "Right around the corner for quick snacks, drinks, ice, or anything you forgot to pack.",
+        "hostPick": false,
+        "emoji": "🏪"
+      },
+      {
+        "name": "Lake Conway",
+        "type": "Lake & Nature",
+        "description": "A 1-minute walk brings you to beautiful Lake Conway. Perfect for morning walks, sunset views, and soaking up Old Florida. Pontoon rentals are available nearby — search 'Lake Conway boat rentals' to arrange in advance.",
+        "hostPick": true,
+        "emoji": "🌊"
+      }
+    ],
+    "coffeeBreakfast": [
+      {
+        "name": "Mecatos Bakery & Café",
+        "type": "Colombian Café",
+        "description": "Our top pick for morning coffee and breakfast. Walking distance — empanadas and café con leche are a must.",
+        "hostPick": true,
+        "emoji": "☕"
+      },
+      {
+        "name": "Foxtail Coffee",
+        "type": "Local Coffee Shop",
+        "description": "Orlando's beloved local coffee brand. Great lattes, excellent atmosphere. A few minutes from the house.",
+        "hostPick": true,
+        "emoji": "🦊"
+      }
+    ],
+    "lunchDinner": [
+      {
+        "name": "Delaney's Tavern",
+        "type": "American — Dinner & Brunch",
+        "description": "Our personal favorite for a proper sit-down meal. Their brunch is absolutely incredible — and dinner is equally impressive. A neighborhood staple.",
+        "hostPick": true,
+        "emoji": "🍽️"
+      },
+      {
+        "name": "Happy Snapper",
+        "type": "Local Neighborhood Spot",
+        "description": "Small, unpretentious, and genuinely great food. The kind of place locals love and tourists never find. You'll be glad you went.",
+        "hostPick": true,
+        "emoji": "🐟"
+      },
+      {
+        "name": "Pizza Bruno",
+        "type": "Gourmet Pizza",
+        "description": "Named Best Gourmet Pizza in Orlando. Wood-fired, thoughtfully crafted, excellent for a night in or dining out.",
+        "hostPick": false,
+        "emoji": "🍕"
+      }
+    ],
+    "mexicanTacos": [
+      {
+        "name": "La Fiesta",
+        "type": "Mexican Restaurant",
+        "description": "Our favorite Mexican spot near the house. Authentic flavors, generous portions, great margaritas.",
+        "hostPick": true,
+        "emoji": "🌮"
+      },
+      {
+        "name": "Gringos Locos",
+        "type": "Tacos & Mexican",
+        "description": "Fun atmosphere and seriously good tacos. A local favorite for a casual, flavorful meal.",
+        "hostPick": true,
+        "emoji": "🌯"
+      }
+    ],
+    "groceries": [
+      {
+        "name": "Ideal Food Basket",
+        "type": "Grocery + Prepared Food",
+        "description": "Our go-to grocery store. Latin and Caribbean grocery with excellent prepared hot food as well. Closest and most convenient from the house.",
+        "hostPick": true,
+        "emoji": "🛒"
+      },
+      {
+        "name": "Winn-Dixie",
+        "type": "Grocery Store",
+        "description": "Full grocery store on South Orange Blossom Trail. Great for a full pantry run.",
+        "hostPick": false,
+        "emoji": "🛒"
+      },
+      {
+        "name": "Publix",
+        "type": "Grocery Store",
+        "description": "Beloved Florida grocery chain. Clean, well-stocked, great deli and bakery. Several locations nearby.",
+        "hostPick": false,
+        "emoji": "🛒"
+      }
+    ],
+    "themeparks": [
+      {
+        "name": "Walt Disney World",
+        "distance": "25 min",
+        "description": "Magic Kingdom, EPCOT, Hollywood Studios, Animal Kingdom. The full Disney experience is just 25 minutes away.",
+        "emoji": "🏰"
+      },
+      {
+        "name": "Universal Studios Orlando",
+        "distance": "20 min",
+        "description": "Universal Studios, Islands of Adventure, and Epic Universe. Harry Potter, Jurassic World, and more.",
+        "emoji": "🎬"
+      },
+      {
+        "name": "SeaWorld Orlando",
+        "distance": "20 min",
+        "description": "Marine life experiences, roller coasters, and Aquatica water park next door.",
+        "emoji": "🐬"
+      }
+    ],
+    "events": [
+      {
+        "name": "Camping World Stadium",
+        "distance": "15 min",
+        "description": "Home to major concerts, soccer matches, and — starting in 2027 — the Jacksonville Jaguars NFL season. Check the schedule before you arrive.",
+        "emoji": "🏟️"
+      },
+      {
+        "name": "Kia Center",
+        "distance": "10 min",
+        "description": "Orlando Magic home games and major concerts. One of the best mid-size venues in Florida.",
+        "emoji": "🎵"
+      }
+    ],
+    "rainyDay": [
+      {
+        "name": "Crayola Experience",
+        "type": "Family Activity",
+        "description": "Located at Florida Mall — interactive art experiences for all ages. Perfect for a rainy Orlando afternoon.",
+        "emoji": "🖍️"
+      },
+      {
+        "name": "Orlando Science Center",
+        "type": "Museum",
+        "description": "Four floors of hands-on science exhibits. Great for curious minds of any age.",
+        "emoji": "🔭"
+      }
+    ],
+    "urgentCare": [
+      {
+        "name": "Multiple Urgent Care Clinics",
+        "description": "Several urgent care facilities are located throughout zip codes 32809 and 32806 — both just minutes from the house. Search 'urgent care near me' for current hours and wait times.",
+        "emoji": "🏥"
+      },
+      {
+        "name": "ORMC / Orlando Regional Medical Center",
+        "description": "Level I Trauma Center, 4 miles from the house.",
+        "emoji": "🚑"
+      },
+      {
+        "name": "MD Anderson Cancer Center at Orlando Health",
+        "description": "4 miles from the house.",
+        "emoji": "🏥"
+      },
+      {
+        "name": "Winnie Palmer Hospital",
+        "description": "Women's and babies' hospital, 4 miles from the house.",
+        "emoji": "🏥"
+      },
+      {
+        "name": "Arnold Palmer Hospital for Children",
+        "description": "Children's hospital, 4 miles from the house.",
+        "emoji": "👶"
+      }
+    ]
+  },
+  "faq": [
+    {
+      "category": "Check-In & Access",
+      "questions": [
+        {
+          "q": "What time is check-in?",
+          "a": "Check-in is at 3:00 PM. If you'd like to arrive earlier, message us — we'll do our best to accommodate for an additional fee, subject to availability."
+        },
+        {
+          "q": "How do I get into the house?",
+          "a": "Your unique entry code will be sent through Airbnb or VRBO before your arrival. Enter through the front door using the keypad — no key needed."
+        },
+        {
+          "q": "Where do I park?",
+          "a": "You have full use of the driveway and the carport. Both are private and just for you during your stay."
+        },
+        {
+          "q": "Can I check in early or check out late?",
+          "a": "Yes, when available! Early check-in and late checkout can be arranged for an additional fee. Just message us in advance and we'll let you know if it's possible."
+        }
+      ]
+    },
+    {
+      "category": "Wi-Fi",
+      "questions": [
+        {
+          "q": "What is the Wi-Fi password?",
+          "a": "Network: SODO BUNGALOW — Password: Bungalow123. Works throughout the entire home and backyard."
+        }
+      ]
+    },
+    {
+      "category": "Pool & Backyard",
+      "questions": [
+        {
+          "q": "Is the pool heated?",
+          "a": "The pool is not heated — but Florida sunshine keeps it warm and refreshing for most of the year. It's available 24 hours a day."
+        },
+        {
+          "q": "How deep is the pool?",
+          "a": "The pool reaches 7 feet at the deep end and gradually shallows toward the steps. Please supervise children at all times."
+        },
+        {
+          "q": "What are the pool rules?",
+          "a": "Children must be supervised at all times. No glass in the pool area. Please shower before entering. Pool towels are provided — keep them outside."
+        },
+        {
+          "q": "How do I access the pool?",
+          "a": "Through the sunroom or through the kitchen door — both open directly to the backyard."
+        },
+        {
+          "q": "Is there a grill?",
+          "a": "Yes! An electric grill is on the patio. Plug in, turn to your desired heat, and enjoy. Please clean the grates after use — tools are stored underneath."
+        },
+        {
+          "q": "Are there pool toys?",
+          "a": "Yes — floats and pool toys are provided and ready to use."
+        }
+      ]
+    },
+    {
+      "category": "House Rules",
+      "questions": [
+        {
+          "q": "What are the quiet hours?",
+          "a": "Quiet hours begin at 10:00 PM out of respect for our neighbors. We appreciate you keeping the good times indoors after that."
+        },
+        {
+          "q": "Are parties or events allowed?",
+          "a": "No parties, gatherings, or events are permitted. The home accommodates up to 8 guests — that is the maximum at any time, including visitors."
+        },
+        {
+          "q": "Are pets allowed?",
+          "a": "We do not allow pets at this property."
+        },
+        {
+          "q": "I saw a cat in the yard — is that normal?",
+          "a": "Yes! There are a few friendly neighborhood stray cats who occasionally wander through. They're harmless and part of the local charm — but please don't feed them."
+        },
+        {
+          "q": "What temperature should I keep the thermostat?",
+          "a": "Please keep the thermostat set to 72°F or above. Florida A/C works best when not pushed too low, and it helps us keep the system running well for all guests."
+        }
+      ]
+    },
+    {
+      "category": "Kitchen & Appliances",
+      "questions": [
+        {
+          "q": "Is there a dishwasher?",
+          "a": "There is no dishwasher. We ask that all dishes are hand-washed before checkout — it's the main thing we ask of guests."
+        },
+        {
+          "q": "What coffee does the house have?",
+          "a": "We have a Nespresso machine with pods provided. Feel free to bring your own favorite pods or ground coffee too."
+        },
+        {
+          "q": "Is the kitchen stocked with pantry items?",
+          "a": "The kitchen is a clean-start kitchen — we don't stock pantry staples like oil, salt, or spices. Ideal Food Basket is just 5 minutes away and sells great prepared food too."
+        }
+      ]
+    },
+    {
+      "category": "Laundry",
+      "questions": [
+        {
+          "q": "Is there a washer and dryer?",
+          "a": "Yes — full-size washer and dryer in the laundry room, available for your use. Detergent is provided on top of the washer."
+        }
+      ]
+    },
+    {
+      "category": "Entertainment",
+      "questions": [
+        {
+          "q": "What TVs are in the house?",
+          "a": "Three Roku TVs — in the living room, primary suite, and junior suite."
+        },
+        {
+          "q": "What streaming services are available?",
+          "a": "The TVs have Roku built in. Log into your own Netflix, Hulu, Disney+, HBO Max, or any other app. Remember to log out before you leave!"
+        }
+      ]
+    },
+    {
+      "category": "Plumbing & Septic",
+      "questions": [
+        {
+          "q": "What can I flush down the toilet?",
+          "a": "Nothing. This home has a septic system, and flushing anything — including toilet paper, wipes, or paper towels — can damage it. Please place all waste in the trash can. We know it's different, and we truly appreciate your help protecting this home."
+        }
+      ]
+    },
+    {
+      "category": "Emergencies & Contact",
+      "questions": [
+        {
+          "q": "What do I do if something breaks or isn't working?",
+          "a": "Please message us immediately through Airbnb or VRBO. We respond quickly and want to fix anything that isn't right as fast as possible. Don't wait until checkout — tell us right away."
+        },
+        {
+          "q": "Where is the nearest hospital?",
+          "a": "ORMC, MD Anderson, Winnie Palmer, and Arnold Palmer hospitals are all within 4 miles of the house. For minor issues, several urgent care clinics are in zip codes 32809 and 32806."
+        }
+      ]
+    },
+    {
+      "category": "Checkout",
+      "questions": [
+        {
+          "q": "What time is checkout?",
+          "a": "Checkout is at 11:00 AM. Late checkout is available for an additional fee — message us in advance to check availability."
+        },
+        {
+          "q": "What do I need to do before I leave?",
+          "a": "Just three things: wash all dishes, take out the trash to the end of the driveway, and lock the front door. That's it — we'll take care of the rest."
+        }
+      ]
+    }
+  ],
+  "checkout": {
+    "heading": "Thanks for staying with us.",
+    "message": "We hope this home gave you exactly what you needed — rest, adventure, family time, or whatever brought you to Orlando. Before you head out, here's everything we ask:",
+    "checklist": [
+      { "item": "Wash all dishes and leave them to dry", "icon": "🍽️" },
+      { "item": "Take the trash to the bins at the end of the driveway", "icon": "🗑️" },
+      { "item": "Lock the front door behind you", "icon": "🔐" },
+      { "item": "Log out of any streaming accounts on the TVs", "icon": "📺" },
+      { "item": "Let us know if anything needs attention", "icon": "💬" }
+    ],
+    "reviewRequest": "If you loved your stay, we'd be so grateful for a review — it truly makes a difference for a small family-owned home like ours. And if anything wasn't perfect, please message us first so we can make it right.",
+    "farewell": "Safe travels, and we hope to see you again. 🌴"
+  }
+}
